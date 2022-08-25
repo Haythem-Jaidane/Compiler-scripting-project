@@ -60,7 +60,8 @@ options : --debug|--optim|--warni
 ### Haythem Jaidane : 
 
 
-<img src="Image/linkedIn.png" width="10" height="10">[Haythem Jaidane](https://tn.linkedin.com/in/haythem-jaidane)
-![My Image](Image/github.png =10x10)[Haythem Jaidane](https://github.com/Haythem-Jaidane)
+<img src="Image/linkedIn.png" width="20" height="20"> [Haythem Jaidane](https://tn.linkedin.com/in/haythem-jaidane)
+
+<img src="Image/github.png" width="20" height="20">[Haythem Jaidane](https://github.com/Haythem-Jaidane)
 
 ### Nour Ben Miled :
