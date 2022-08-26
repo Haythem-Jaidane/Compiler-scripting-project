@@ -60,8 +60,12 @@ options : --debug|--optim|--warni
 ### Haythem Jaidane : 
 
 
-<img src="Image/linkedIn.png" width="20" height="20"> [Haythem Jaidane](https://tn.linkedin.com/in/haythem-jaidane)
+<img src="Image/linkedIn.png" width="20" height="20"> [Haythem Jaidane](https://tn.linkedin.com/in/haythem-jaidane-631030217)
 
-<img src="Image/github.png" width="20" height="20">[Haythem Jaidane](https://github.com/Haythem-Jaidane)
+<img src="Image/github.png" width="30" height="30">[Haythem Jaidane](https://github.com/Haythem-Jaidane)
 
 ### Nour Ben Miled :
+
+<img src="Image/linkedIn.png" width="20" height="20"> [Nour Ben Miled](https://tn.linkedin.com/in/nour-ben-miled-12a4b122a)
+
+<img src="Image/github.png" width="30" height="30">[Nour Ben Miled](https://github.com/Nourbenmiled)
